@@ -1,0 +1,52 @@
+body { /*remove vertical margins*/
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 100%;
+}
+.align-text-right input {
+    text-align : right;
+}
+
+.x-toolbar .x-toolbar-item {
+    margin: 0 0 0 0;
+}
+
+.x-btn-default-toolbar-small {
+    padding: 0;
+    margin: 0 0 0 0;
+}
+
+.pdf {
+    background-image: url("images/pdf.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
+
+.remove {
+    background-image: url("images/remove.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
+
+.new {
+    background-image: url("images/new.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
+
+.edit {
+    background-image: url("images/edit.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
+
+.cancel {
+    background-image: url("images/cancel.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
+
+.save {
+    background-image: url("images/save.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
+
+.clover {
+    background-image: url("images/clover.png") !important;
+    /*background-image: url("images/account.png") !important;*/
+}
